@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Save My Notes</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- A -->
+    <string name="action_about">Sobre</string>
+    <string name="action_settings">Configurações</string>
+    <string name="about_dialog_text">
+<![CDATA[
+<b>Save My Notes 2020</b><br>
+Versao %s<br><br>
+<a href="https://github.com/AdrianoJunior">https://github.com/AdrianoJunior/</a><br><br>
+
+<b>Por: Adriano dos Santos Coutinho Junior</b><br>
+	]]>
+	</string>
+
+    <string name="about_dev_text">
+        Adriano dos Santos Coutinho Junior
+        \nDesenvolvedor android
+    </string>
+    <string name="about_dialog_title">Save My Notes</string>
+    <!-- D -->
+    <string name="descricao">Descrição</string>
+    <!-- E -->
+    <string name="excluir">Excluir</string>
+
+    <!-- I -->
+    <string name="informacoes">Informações</string>
+
+    <!-- M -->
+    <string name="msg_alerta_permissao">Para utilizar este aplicativo, você precisa aceitar as permissões.</string>
+    <string name="msg_error_conexao_indisponivel">Conexão indisponível. Verifique seu Wi-Fi ou 3G.</string>
+    <string name="my_notes">Minhas Notas</string>
+
+    <!-- N -->
+    <string name="notes">Notas</string>
+
+    <!-- O -->
+    <string name="ok">OK</string>
+
+    <!-- S -->
+    <string name="sobre">Sobre</string>
+    <string name="salvar">Salvar</string>
+
+    <!-- T -->
+    <string name="titulo">Título</string>
+    <string name="data">Data:</string>
+
+</resources>

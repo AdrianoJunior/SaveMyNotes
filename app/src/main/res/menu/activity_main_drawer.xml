@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_notes"
+            android:checked="false"
+            android:icon="@drawable/ic_note"
+            android:iconTint="@color/black"
+            android:title="@string/notes" />
+        <item
+            android:id="@+id/nav_desenvolvedor"
+            android:checkable="true"
+            android:icon="@drawable/dev_icon_drawer"
+            android:iconTint="@color/black"
+            android:title="Desenvolvedor" />
+
+        <item
+            android:checkable="false"
+            android:id="@+id/nav_action_sair"
+            android:icon="@drawable/ic_exit"
+            android:iconTint="@color/black"
+            android:title="Sair" />
+    </group>
+</menu>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "91378929924",
+    "firebase_url": "https://save-my-notes.firebaseio.com",
+    "project_id": "save-my-notes",
+    "storage_bucket": "save-my-notes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91378929924:android:36cc8d87445fc5d75c0051",
+        "android_client_info": {
+          "package_name": "br.com.adrianojunior.savemynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91378929924-d9lt2n23jv0qi2p0altu0btvnvsn85lb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.adrianojunior.savemynotes",
+            "certificate_hash": "4391b5f5b82830514c90555b0e339d13630bfa5b"
+          }
+        },
+        {
+          "client_id": "91378929924-869m1hb06thsu9et1fe9b1s5os4anjho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcphIg7GvBOgjKYQF-KbqMMmvKp5E8JLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91378929924-869m1hb06thsu9et1fe9b1s5os4anjho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
